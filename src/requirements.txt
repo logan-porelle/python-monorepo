@@ -153,7 +153,7 @@ torchdiffeq==0.2.3
 torchmetrics==0.11.1
 torchsde==0.2.5
 torchvision==0.14.1+cpu
-tornado==6.2
+tornado==6.3.3
 tqdm==4.64.1
 trampoline==0.1.2
 transformers==4.26.1
