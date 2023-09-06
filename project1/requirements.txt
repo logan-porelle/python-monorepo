@@ -1,4 +1,4 @@
-﻿absl-py==1.4.0
+absl-py==1.4.0
 accelerate==0.16.0
 addict==2.4.0
 aiohttp==3.8.4
@@ -48,7 +48,7 @@ future==0.18.3
 getpass-asterisk==1.0.1
 gfpgan==1.3.8
 gitdb==4.0.10
-GitPython==3.1.31
+GitPython==3.1.34
 google-auth==2.16.1
 google-auth-oauthlib==0.4.6
 greenlet==2.0.2
